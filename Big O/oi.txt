@@ -1,0 +1,6 @@
+O(1) -> Constante, a função sempre executa a mesma coisa e o processamento é sempreo mesmo 
+
+O(n) -> Linear, recebe N Inputs num laço (o tamanho varia e o resultado pode nunca ser sempre o mesmo)
+
+O(N ^ N) -> Quadrático - cada elemento em uma coleção precisa ser comparado a qualquer outro elemento. Dois loops aninhados
+
